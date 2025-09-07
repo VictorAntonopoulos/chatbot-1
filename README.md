@@ -191,8 +191,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
 9.  **Exemplos de Uso da API**
 
-```json
-10. 📜 Exemplos de Uso
 
 ### Criar Moto (POST /api/Moto)
 {
