@@ -150,7 +150,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
         dotnet restore
         ```
 
-5.  **Configure a Conexão com o Banco de Dados**
+5.  **🗄️Configure a Conexão com o Banco de Dados**
 
     -   Certifique-se de que o container do SQL Server está rodando:
 
