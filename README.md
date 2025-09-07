@@ -189,33 +189,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
     -   Acesse `https://localhost:5007/swagger` para explorar e testar os endpoints.
 
-10. 📜 Exemplos de Uso
-
-Aqui estão exemplos práticos de requisições que podem ser feitas no Swagger ou em ferramentas como Postman/Insomnia.
-
-### Criar Moto (POST /api/Moto)
-{
-  "patioId": 1,
-  "placa": "ABC-1234",
-  "modelo": "Honda CG 160",
-  "ano": 2023,
-  "rfidTag": "RFID123456"
-}
-
-### Atualizar Moto (PUT /api/Moto/{id})
-
-Exemplo de request:
-{
-  "patioId": 2,
-  "placa": "XYZ-9876",
-  "modelo": "Yamaha Fazer 250",
-  "ano": 2022,
-  "rfidTag": "RFID654321"
-}
-
-
-
-
 ### Comandos Úteis do Docker
 
 -   **Parar o container:**
