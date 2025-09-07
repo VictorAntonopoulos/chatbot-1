@@ -168,15 +168,9 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
 9.  **Exemplos de Uso da API**
 
-### Criar Moto (POST /api/Moto)
-```json
-{
-  "patioId": 1,
-  "placa": "ABC-1234",
-  "modelo": "Honda CG 160",
-  "ano": 2023,
-  "rfidTag": "RFID123456"
-}
+```bash
+    dotnet run --project Trackin.Api
+    ```
 
 ### Comandos Úteis do Docker
 
