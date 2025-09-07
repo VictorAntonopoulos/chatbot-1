@@ -194,7 +194,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 Aqui estão exemplos práticos de requisições que podem ser feitas no Swagger ou em ferramentas como Postman/Insomnia.
 
 ### Criar Moto (POST /api/Moto)
-```json
 {
   "patioId": 1,
   "placa": "ABC-1234",
@@ -203,12 +202,9 @@ Aqui estão exemplos práticos de requisições que podem ser feitas no Swagger 
   "rfidTag": "RFID123456"
 }
 
-```markdown
 ### Atualizar Moto (PUT /api/Moto/{id})
 
 Exemplo de request:
-
-```json
 {
   "patioId": 2,
   "placa": "XYZ-9876",
